@@ -3,7 +3,7 @@
     Vue Architecture Boilerplate
   </h2>
   <p align="center">
-    Vue.js architecture for front-end projects at <a href="https://midianoalvo.com.br">NOALVO</a>
+    Vue.js architecture for front-end projects.
   </p>
 </p>
 

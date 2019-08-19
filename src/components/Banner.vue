@@ -4,7 +4,7 @@
       Vue Architecture Boilerplate
     </h1>
     <h3 class="text-white text-center">
-      Vue.js architecture for front-end projects at NOALVO
+      Vue.js architecture for front-end projects
     </h3>
   </div>
 </template>
@@ -28,7 +28,7 @@ export default {
 .noalvo-bg {
   background-image: url(../assets/banner.jpg);
   background-size: cover;
-  background-position: center right;
+  background-position: center center;
   position: relative;
 
   > h1 {
